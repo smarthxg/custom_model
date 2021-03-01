@@ -1,8 +1,7 @@
 CLASSES = {
   0: 'Green Plant',
   1: 'Purple Flowers',
-  2: 'White Flowers',
-
+  2: 'White Flowers'
 };
 
 const MODEL_PATH =
